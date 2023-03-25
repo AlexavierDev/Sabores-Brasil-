@@ -1,0 +1,20 @@
+
+@media (max-width: 426px)
+{
+  .containerMain
+   {
+    display: flex;
+    flex-direction: column;
+   }
+
+   iframe{
+        width: 400px;
+   }
+
+   form{
+   
+    width: 300px;
+   
+}
+
+}
